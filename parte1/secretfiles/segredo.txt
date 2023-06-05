@@ -1,0 +1,5 @@
+
+A very secret text file:
+    - Perhaps you are a ninja.
+    - How did you find me?
+    - The user has surely opened txt2.txt
